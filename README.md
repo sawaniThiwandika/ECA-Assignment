@@ -1,5 +1,5 @@
-Reg No- 2301671045
-Name- Sawani Thiwandika 
+- Reg No- 2301671045
+- Name- Sawani Thiwandika 
 
 # ☁️ Cloud Enabled Deployment In Action with AWS
 
