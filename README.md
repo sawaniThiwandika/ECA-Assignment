@@ -1,6 +1,7 @@
 - Reg No- 2301671045
 - Name- Sawani Thiwandika 
-
+- Email- thiwandika.whs02@gmail.com
+  
 # ☁️ Cloud Enabled Deployment In Action with AWS
 
 This repository contains four projects:
